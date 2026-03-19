@@ -54,13 +54,29 @@
       
       <td width="50%" valign="top">
         <h3 align="left"><code>&gt;_ active_processes.sh</code></h3>
-        <ul align="left">
-          <li><b>[GOV] Binangonan eGov App:</b> Engineering the UI and leading cross-platform mobile development logic.</li>
-          <li><b>[WEB] C8nnect Ecosystem:</b> Revamped the official company portal utilizing 3D assets and GSAP animations.</li>
-          <li><b>[SYS] Multi-Tenant HRIS:</b> Building robust backend architecture using Supabase & PostgreSQL.</li>
-          <li><b>[DEV] Freelance/Contracts:</b> Developing dynamic sites for <i>Padrellos Construction</i> and the <i>JRU AWS Learning Club</i>.</li>
-          <li><b>[GAM] Indie Dev:</b> Building mechanics for <i>Math-Worm-Game</i> via the Godot Engine.</li>
-        </ul>
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="8" style="background-color: transparent;">
+          <tr>
+            <td width="15%" valign="top"><img src="https://img.shields.io/badge/-GOV-00E5FF?style=for-the-badge&logoColor=black" alt="GOV"/></td>
+            <td width="85%" valign="top" style="color: #c9d1d9;"><b>Binangonan eGov App</b><br/>Engineering the UI and leading cross-platform mobile development logic.</td>
+          </tr>
+          <tr>
+            <td width="15%" valign="top"><img src="https://img.shields.io/badge/-WEB-FF00FF?style=for-the-badge&logoColor=white" alt="WEB"/></td>
+            <td width="85%" valign="top" style="color: #c9d1d9;"><b>C8nnect Ecosystem</b><br/>Revamped the official company portal utilizing 3D assets and GSAP animations.</td>
+          </tr>
+          <tr>
+            <td width="15%" valign="top"><img src="https://img.shields.io/badge/-SYS-FF6D00?style=for-the-badge&logoColor=white" alt="SYS"/></td>
+            <td width="85%" valign="top" style="color: #c9d1d9;"><b>Multi-Tenant HRIS</b><br/>Building robust backend architecture using Supabase & PostgreSQL.</td>
+          </tr>
+          <tr>
+            <td width="15%" valign="top"><img src="https://img.shields.io/badge/-DEV-00FF00?style=for-the-badge&logoColor=black" alt="DEV"/></td>
+            <td width="85%" valign="top" style="color: #c9d1d9;"><b>Freelance / Contracts</b><br/>Developing dynamic sites for <i>Padrellos Construction</i> and the <i>JRU AWS Learning Club</i>.</td>
+          </tr>
+          <tr>
+            <td width="15%" valign="top"><img src="https://img.shields.io/badge/-GAM-FF003C?style=for-the-badge&logoColor=white" alt="GAM"/></td>
+            <td width="85%" valign="top" style="color: #c9d1d9;"><b>Indie Game Dev</b><br/>Building mechanics for <i>Math-Worm-Game</i> via the Godot Engine.</td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
