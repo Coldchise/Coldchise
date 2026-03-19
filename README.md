@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=28&pause=800&color=00FFFF;FF00FF&center=true&vCenter=true&width=800&lines=INITIALIZING_SYSTEM...;>+USER:+CHRISTIAN_VERGARA;>+ROLE:+JUNIOR_DEVELOPER_@_C8NNECT;>+SKILLS:+MERN_+_THREE.JS_+_UI%2FUX;>+STATUS:+BSIT_UNDERGRAD_ONLINE;>+BREACHING_MAINFRAME..." alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=28&pause=800&color=00FFFF;FF00FF&center=true&vCenter=true&width=800&lines=INITIALIZING_SYSTEM...;>+USER:+CHRISTIAN_VERGARA;>+ROLE:+SOFTWARE_DEVELOPER;>+SKILLS:+MERN_+_THREE.JS_+_UI%2FUX;>+STATUS:+BSIT_UNDERGRAD_ONLINE;>+BREACHING_MAINFRAME..." alt="Typing Animation" />
   </a>
 </div>
 
