@@ -25,7 +25,7 @@
   <table border="1" style="border-collapse: collapse; background-color: #0d1117; border-color: #00FFFF;">
     <tr>
       <td align="left" width="250"><b><span style="color: #00FFFF;">[>_] CURRENT_PROTOCOL.exe:</span></b></td>
-      <td align="left" width="550">Architecting scalable web systems & cross-platform government applications (Binangonan UI).</td>
+      <td align="left" width="550">I’m a MERN stack developer focused on building scalable, high-performance web applications. I specialize in designing clean, maintainable systems and creating efficient backend architectures that can grow with real-world demands.</td>
     </tr>
     <tr>
       <td align="left"><b><span style="color: #00FFFF;">[>_] 3D_INTEGRATION.dll:</span></b></td>
