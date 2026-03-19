@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-globe.vercel.app/api?color=00FFFF" width="150" alt="Cyber Globe"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=coldchise&label=MAINFRAME_INTRUSIONS&color=ff00ff&style=for-the-badge&base=5000" alt="Profile Views" />
 </div>
